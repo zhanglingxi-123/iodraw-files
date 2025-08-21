@@ -61,7 +61,7 @@
         <mxCell id="tMcwpJzURstCkfzbVHXY-0" value="获取ss_pdf_pz_mx.qs_method" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="264" y="300" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tMcwpJzURstCkfzbVHXY-6" value="判断是否是json格式" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMcwpJzURstCkfzbVHXY-6" value="判断是否是数组son格式" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319.18" y="450" width="159.63" height="97.5" as="geometry" />
         </mxCell>
       </root>
