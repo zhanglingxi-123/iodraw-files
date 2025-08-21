@@ -100,6 +100,11 @@
             <mxPoint x="690" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tMcwpJzURstCkfzbVHXY-23" value="Json格式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tMcwpJzURstCkfzbVHXY-22">
+          <mxGeometry x="0.1143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
